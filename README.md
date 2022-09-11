@@ -1,9 +1,8 @@
-# wow-elvui-name-shortener-tag
-Provides an extra tag with options to shorten names
+# ElvUI Name Shortener Tag
+Provides an extra ElvUI tag with options to shorten names when needed, while also keeping it as readable and elaborate
+as possible.
 
-This ElvUI tag is designed to shorten names when needed, while also keeping it as readable and elaborate as possible.
-
-This is the ElvUI tag counterpart for: https://wago.io/name-shortener-for-plater
+This is the ElvUI tag counterpart for the Plater mod: https://wago.io/name-shortener-for-plater
 
 ### Available Tags
 
@@ -64,3 +63,8 @@ This is what the full config would look like if you were to define all settings 
 >
 > - **Keep right side**: This Very Long Name will be shortened as "T.V. Long Name"
 > - **Keep left side**: This Very Long Name will be shortened as "This V.L.N."
+
+## Official Download Locations
+You can find this addon on: [CurseForge.com](https://www.curseforge.com/wow/addons/elvui-name-shortener-tag),
+[Wago.io](https://addons.wago.io/addons/elvui-name-shortener-tag), and [WowUp.io](https://wowup.io/).
+You can find the releases on [GitHub](https://github.com/linaori/wow-elvui-name-shortener-tag/releases).

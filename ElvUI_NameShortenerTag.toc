@@ -5,5 +5,7 @@
 ## Version: @project-version@
 ## RequiredDeps: ElvUI
 ## X-Repository: https://github.com/linaori/wow-elvui-name-shortener-tag
+## X-Curse-Project-ID: 674699
+## X-Wago-ID: 0mNwAlKo
 
 Core.lua
