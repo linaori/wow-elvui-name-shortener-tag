@@ -1,4 +1,4 @@
-## Interface: 100000
+## Interface: 100002
 ## Title: |cff1784d1ElvUI|r Name Shortener Tag
 ## Notes: Adds an extra tag for unit frames and nameplates with smart name shortening
 ## Author: Linaori
