@@ -1,4 +1,5 @@
 package-as: ElvUI_NameShortenerTag
+enable-toc-creation: yes
 
 ignore:
     - .github
