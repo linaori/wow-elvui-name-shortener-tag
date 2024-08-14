@@ -12,7 +12,7 @@ globals = {
     'ElvUI',
     'LibStub',
 
-    'IsAddOnLoaded',
+    'C_AddOns',
     'UnitName',
     'UnitNameUnmodified',
 
