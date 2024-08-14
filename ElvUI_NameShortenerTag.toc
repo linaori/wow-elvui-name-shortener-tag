@@ -1,6 +1,7 @@
-## Interface: 100205
+## Interface: 110002
 ## Interface-Classic: 11505
 ## Interface-Wrath: 30403
+## Interface-Cata: 40400
 ## Title: |cff1784d1ElvUI|r Name Shortener Tag
 ## Notes: Adds an extra tag for unit frames and nameplates with smart name shortening
 ## Author: Linaori
