@@ -1,4 +1,4 @@
-if not IsAddOnLoaded('ElvUI') then return end
+if not C_AddOns.IsAddOnLoaded('ElvUI') then return end
 
 local AddonName = ...
 local E = unpack(ElvUI)
