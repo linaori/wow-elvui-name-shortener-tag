@@ -206,6 +206,8 @@ function Private.RegisterTag(tagName, unitNameFunction, doTranslit)
         local name, realm = unitNameFunction(unit)
         if not name then return end
 
+        input = input or ''
+
         local cacheKey = (doTranslit and 'T' or '_') .. name .. (realm and ('-' .. realm) or '') .. input
 
         if not nameCache[cacheKey] then
